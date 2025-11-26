@@ -1,0 +1,5 @@
+[build]
+dockerfile = "Dockerfile"  # Specify your Dockerfile if needed
+
+[deploy]
+environment = "python3.9"
